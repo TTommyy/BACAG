@@ -1,0 +1,3 @@
+/home/tomek/Pulpit/Studia/Programowanie2/BACAG/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomek/Pulpit/Studia/Programowanie2/BACAG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tomek/Pulpit/Studia/Programowanie2/BACAG/cmake-build-debug/CMakeFiles/BACAG.dir
