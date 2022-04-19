@@ -6,4 +6,4 @@ wielomianow.
 /*ENG*/
 The library "Z3" provides the representation  of the number body {0,1,2} with the basic operations.
 The "Polynominal" library provides representations of polynomials with coefficients from the "Z3" body and operations: addition, subtraction, multiplication and division of polynomial.
-Writenn in C++.
+Written in C++.
